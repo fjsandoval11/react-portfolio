@@ -13,9 +13,9 @@ const Home = () => {
           <p> A software developer with a passion for learning and creating
 
           </p>
-<LinkedInIcon />
-<EmailIcon />
-<GitHubIcon />
+<LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/devfreddysandoval/', '_blank')} />
+<EmailIcon  />
+<GitHubIcon onClick={() => window.open('https://github.com/fjsandoval11', '_blank')}/>
            </div>
          </div>
       <div className='skills'>
