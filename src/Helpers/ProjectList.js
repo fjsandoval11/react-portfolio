@@ -5,7 +5,7 @@ export const projectList = [
     {
         name: "MangaList Tracker ",
         image: Proj1,
-        skills: 'HTML, CSS, JavaScript, PostGres SQL'
+        skills: 'HTML, CSS, JavaScript, PostGresSQL '
     },
 
   

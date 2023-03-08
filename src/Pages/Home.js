@@ -14,7 +14,7 @@ const Home = () => {
 
           </p>
 <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/devfreddysandoval/', '_blank')} />
-<EmailIcon  onClick={()=> window.location.href = "mailto:fjsandvoal11@gmail.com?subject=Subject&body=message%20goes%20here"}/>
+<EmailIcon  onClick={()=> window.location.href = "mailto:fjsandoval11@gmail.com?subject=Subject&body=message%20goes%20here"}/>
 <GitHubIcon onClick={() => window.open('https://github.com/fjsandoval11', '_blank')}/>
            </div>
          </div>
